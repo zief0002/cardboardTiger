@@ -1,2 +1,2 @@
-# cardboard-tiger
-test repo for our project
+# cardboardTiger
+R package of learnR tutorials for EPsy 5261
