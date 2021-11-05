@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# html tutorial output
+inst/tutorials/*/*.html
+inst/tutorials/*/*_files
+
+# deployment output
+rsconnect/
+inst/doc
+doc
+Meta
+docs
+
+# full size logo
+man/figures/cardboardTiger-fullsize.png

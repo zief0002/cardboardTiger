@@ -1,0 +1,32 @@
+Package: cardboardTiger
+Type: Package
+Title: EPsy 5261 Course Materials
+Version: 0.0.1
+Authors@R: c(
+    person("Andrew", "Zieffler", email = "zief0002@umn.edu", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1035-0341")),
+    person("Chelsey", "Legacy", email = "0000-0002-1035-0341", role = c("ctb")),
+    person("Vimal", "Rao", email = "rao00013@umn.edu", role = c("ctb")),
+    person("Robert", "delMas", email = "delma001@umn.edu", role = c("ctb"))
+    )
+Description: Datasets and interactive lab manual for the EPsy 5261 course at the University of Minnesota.
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    learnr,
+    scales,
+    tidyverse,
+    rvest,
+    DT,
+    tidymodels,
+    gradethis (>= 0.1.0.9004)
+Suggests: 
+    dplyr, 
+    ggplot2, 
+    tibble
+Depends: 
+    R (>= 2.10)
+License: MIT + file LICENSE
+URL: https://github.com/zief0002/cardboardTiger
+BugReports: https://github.com/zief0002/cardboardTiger/issues
+RoxygenNote: 7.1.2
+Roxygen: list(markdown = TRUE)
