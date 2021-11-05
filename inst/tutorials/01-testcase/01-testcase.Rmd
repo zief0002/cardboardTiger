@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Topic 1
 
-Hola!!!! Did this work???!!!
+Hola!!!! Did this work???!!! Take 2. This is neat
 
 ### Exercise 
 
